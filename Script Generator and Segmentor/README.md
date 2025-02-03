@@ -24,7 +24,7 @@ cd ForgeTube/Script Generator and Segmentor
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install google.generativeai
 ```
 
 ## Configuration
