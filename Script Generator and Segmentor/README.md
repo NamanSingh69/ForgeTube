@@ -18,7 +18,7 @@ The AI-powered script generation module for automated video production, handling
 
 1. Clone repository:
 ```bash
-git clone -b Naman/Script_Generator_and_Segmentor https://github.com/NamanSingh69/ForgeTube.git
+git clone -b Naman https://github.com/NamanSingh69/ForgeTube.git
 cd ForgeTube/Script Generator and Segmentor
 ```
 
