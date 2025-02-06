@@ -14,7 +14,7 @@ class VideoScriptGenerator:
     
     def __init__(self, api_key: str):
         genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel('gemini-exp-1206')
+        self.model = genai.GenerativeModel('gemini-2.0-pro-exp-02-05')
         
         self.system_prompt = """You are a professional video script generator for educational and marketing content.
         Generate JSON output with these strict rules:
